@@ -1,0 +1,6 @@
+framework module Pods_Clima_SwiftUI {
+  umbrella header "Pods-Clima-SwiftUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
